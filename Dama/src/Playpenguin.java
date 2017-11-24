@@ -78,7 +78,7 @@ public class Playpenguin {
 				Situationpic.health();	//Situation 클래스의 운동하는 그림 출력
 				
 				if(Playdama.dice<80) {		//다이스 값에 따른 출력
-		
+		 
 					if (Playdama.health<=150){
 			
 						if (Playdama.hungry >= 30 && Playdama.emotion >= 30) {
